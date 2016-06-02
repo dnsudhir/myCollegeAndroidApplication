@@ -22,6 +22,8 @@ it will be received by the student only. The Lecturers can send bulk mail to a b
 9. SMS: The Students can SMS any one using way2sms using their own way2sms account by using thier login credentials. The Lecturers can SMS to a batch of students
 using college registered way2sms account.
 
+10. Location: The Location Module helps to pinpoint College location on the Google Maps.
+
 
 The Sample Application can be downloaded from here
 http://www.mediafire.com/download/i42ipua5565c9qx/UCSS.apk
