@@ -26,4 +26,8 @@ using college registered way2sms account.
 
 
 The Sample Application can be downloaded from here
-http://www.mediafire.com/download/i42ipua5565c9qx/UCSS.apk
+http://www.mediafire.com/download/m71xflbd5xohxq0/UCSS.apk
+
+You can watch video to know how the application works
+part 1- https://youtu.be/CB9rfPNLTxY
+part 2- https://youtu.be/n68gwRNkEE8
