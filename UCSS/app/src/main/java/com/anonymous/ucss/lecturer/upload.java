@@ -248,7 +248,7 @@ public class upload extends AppCompatActivity implements View.OnClickListener {
                     runOnUiThread(new Runnable() {
                         @Override
                         public void run() {
-                            tvFileName.setText("File Upload completed.\n\n You can see the uploaded file here: \n\n" + "http://coderefer.com/extras/uploads/" + fileName);
+                            tvFileName.setText("File Upload completed.");
                         }
                     });
                 }
