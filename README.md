@@ -28,6 +28,17 @@ using college registered way2sms account.
 The Sample Application can be downloaded from here
 http://www.mediafire.com/download/m71xflbd5xohxq0/UCSS.apk
 
+You can login in to the application using the following credentials or register a new account as student or lecturer
+For Student Account:
+Username - dnsudhir@gmail.com
+Password - 123456
+
+For Lecturer Account:
+Username - fac@gmail.com1
+Password - 123456
+
+
+
 You can watch video to know how the application works
 part 1- https://youtu.be/CB9rfPNLTxY
 part 2- https://youtu.be/n68gwRNkEE8
